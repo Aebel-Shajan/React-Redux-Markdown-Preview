@@ -1,7 +1,9 @@
 import React, { useState } from 'react';
 import {marked} from 'marked';
 
-
+// TODO:
+// > Implement redux for state management
+// > Different files for different components
 
 function capitalizeFirstLetter(string) {
 	return string.charAt(0).toUpperCase() + string.slice(1);
