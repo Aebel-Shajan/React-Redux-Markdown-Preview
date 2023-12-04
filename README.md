@@ -1,5 +1,7 @@
 # React-Redux Markdown Previewer
 
+View this project on [CodePen](https://codepen.io/aebel-shajan/pen/xxMmxqK)
+
 ## User Stories
 > User Story #1: I can see a textarea element with a corresponding id="editor".
 
